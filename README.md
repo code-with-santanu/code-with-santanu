@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Santanu Pal
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C and python 
+- 🌱 I’m currently learning C , Python and Java 
 - 📫 How to reach me ...@santanupalb404@gmail.com
 
 <!---
