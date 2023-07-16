@@ -34,7 +34,7 @@ justify-content: center;
 <p align="left">
 
   <a href="https://www.linkedin.com/in/santanu-pal-62778922a" target="_blank">
-        <img align="center" src="https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png" alt="Santanu Pal" height="30" width="30" />
+        <img align="center" src="https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn1.png" alt="Santanu Pal" height="30" width="30" />
     </a>
 
   <a href="https://www.instagram.com/santanupal47" target="_blank">
