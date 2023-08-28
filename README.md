@@ -28,7 +28,7 @@ justify-content: center;
 "><img src="https://github-stats-barnacle.vercel.app/api/top-langs/?username=code-with-santanu&langs_count=10&layout=compact&theme=dracula&exclude_repo=udemy-basic-html-brad" alt="code-with-santanu"/>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-santanu&&theme=dracula" alt="code-with-santanu" /></p>
+<img src="https://streak-stats.demolab.com?user=code-with-santanu&theme=dracula" alt="code-with-santanu"/>
 
 
 <h3 align="left">Connect with me:</h3>
