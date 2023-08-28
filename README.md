@@ -13,7 +13,7 @@
 
 <!-------------------------Github stats------------------------->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-with-santanu&show_icons=true&locale=en&theme=dracula" alt="code-with-santanu" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=code-with-santanu&theme=dracula&show_icons=true&locale=en" alt="code-with-santanu"/></p>
 
 <!-------------------------Activity Graph------------------------->
 <br>
@@ -25,10 +25,10 @@
 display: flex;
 align-items: center;
 justify-content: center;
-"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-santanu&show_icons=true&locale=en&layout=compact&theme=dracula" alt="code-with-santanu" />
+"><img src="https://github-stats-barnacle.vercel.app/api/top-langs/?username=code-with-santanu&langs_count=10&layout=compact&theme=dracula&exclude_repo=udemy-basic-html-brad" alt="code-with-santanu"/>
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-santanu&&theme=dracula" alt="code-with-santanu" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-santanu&&theme=dracula" alt="code-with-santanu" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
