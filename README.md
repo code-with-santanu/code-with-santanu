@@ -57,4 +57,4 @@ justify-content: center;
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-with-santanu" alt="code-with-santanu" /></a> </p>
 
-[![@codewithsantanu's Holopin board](https://holopin.io/api/user/board?user=codewithsantanu)](https://holopin.io/@codewithsantanu)
+[![An image of @codewithsantanu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codewithsantanu)](https://holopin.io/@codewithsantanu)
