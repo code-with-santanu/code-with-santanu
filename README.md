@@ -10,7 +10,8 @@
 
 - 💬 **Always up to discuss new ideas and explore techical skills.**
 
-<h1> Take a glance of my portfolio </h1>
+<div style="display: flex;
+  flex-direction: row"><h1> Take a glance of my portfolio : </h1> <p> https://santanupal-03.web.app/</p></div>
 
 <h1 align="center"> Wanna Motivate Me </h1>
 <p align="center"> Star ⭐ my projects ⚓</p>
