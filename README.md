@@ -26,10 +26,10 @@
 display: flex;
 align-items: center;
 justify-content: center;
-"><img src="https://github-stats-barnacle.vercel.app/api/top-langs/?username=code-with-santanu&langs_count=10&layout=compact&theme=dracula&exclude_repo=udemy-basic-html-brad" alt="code-with-santanu"/>
+"><img src="https://github-stats-barnacle.vercel.app/api/top-langs/?username=code-with-santanu&langs_count=10&layout=compact&theme=vision-friendly-dark&exclude_repo=udemy-basic-html-brad" alt="code-with-santanu"/>
 
 
-<img src="https://streak-stats.demolab.com?user=code-with-santanu&theme=dracula" alt="code-with-santanu"/>
+<img src="https://streak-stats.demolab.com?user=code-with-santanu&theme=vision-friendly-dark" alt="code-with-santanu"/>
 
 <h1 align="center"> Wanna Motivate Me </h1>
 <p align="center"> Star ⭐ my projects ⚓</p>
