@@ -14,7 +14,7 @@
 
 <!-------------------------Github stats------------------------->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=code-with-santanu&theme=dracula&show_icons=true&locale=en" alt="code-with-santanu"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=code-with-santanu&rank_icon=github&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=false&locale=en" alt="code-with-santanu"/></p>
 
 <!-------------------------Activity Graph------------------------->
 <br>
