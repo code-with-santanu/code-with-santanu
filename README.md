@@ -19,7 +19,7 @@
 <!-------------------------Activity Graph------------------------->
 <br>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=code-with-santanu&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=code-with-santanu&theme=github-compact&bg_color=FFFFFF00&color=e1dbe1&line=8042fc&point=ffb000&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-------------------------Most Used Languages & Current Streak------------------------->
 <p align ="center" style="
