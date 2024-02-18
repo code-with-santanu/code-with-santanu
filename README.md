@@ -6,17 +6,11 @@
 
 - 📫 How to reach me **santanubalb404@gmail.com**
 
-- ⚡ I am a **Fast Learner.**
+- ⚡ Take a glance of my portfolio : https://santanupal-03.web.app/
 
 - 💬 **Always up to discuss new ideas and explore techical skills.**
 
-<div style="display: flex;
-  flex-direction: row"><h1> Take a glance of my portfolio : </h1> <p> https://santanupal-03.web.app/</p></div>
 
-<h1 align="center"> Wanna Motivate Me </h1>
-<p align="center"> Star ⭐ my projects ⚓</p>
-
-<p align="center"> Follow🚶 me on Github </p>
 
 <!-------------------------Github stats------------------------->
 
@@ -37,6 +31,13 @@ justify-content: center;
 
 <img src="https://streak-stats.demolab.com?user=code-with-santanu&theme=dracula" alt="code-with-santanu"/>
 
+<h1 align="center"> Wanna Motivate Me </h1>
+<p align="center"> Star ⭐ my projects ⚓</p>
+
+<p align="center"> Follow🚶 me on Github </p>
+
+
+<!------------Connect with me ----------->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
