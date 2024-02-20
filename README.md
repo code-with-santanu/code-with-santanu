@@ -2,39 +2,44 @@
 <h3 align="center">A Tech Enthusiast from India ❤️</h3>
 
 
-- 🌱 I’m currently learning **Python, Java, Javascript**
+- 🌱 I’m currently learning **Python, Java, DevOps**
 
 - 📫 How to reach me **santanubalb404@gmail.com**
 
-- ⚡ Take a glance of my portfolio : https://santanupal-03.web.app/
+- ⚡ Take a glance of my website : [Portfolio](https://santanupal-03.web.app/)
 
 - 💬 **Always up to discuss new ideas and explore techical skills.**
 
+<br>
+<!-------------------------Github streak------------------------->
+<h2 align="center">Santanu Pal's Streak and Contribution</h2>
+<p align="center"><img src="https://streak-stats.demolab.com?user=code-with-santanu&theme=vision-friendly-dark" alt="code-with-santanu"/></p>
 
+<br>
+<!-------------------------Github stats and most used languages------------------------->
 
-<!-------------------------Github stats------------------------->
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=code-with-santanu&rank_icon=github&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=false&locale=en" alt="code-with-santanu"/></p>
+<p align="center" style="
+display: flex;
+align-items: center;
+justify-content: center;
+">
+  <img src="https://github-readme-stats.vercel.app/api?username=code-with-santanu&rank_icon=github&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=false&locale=en" alt="code-with-santanu"/>
+  
+  <img width="auto" src="https://github-stats-barnacle.vercel.app/api/top-langs/?username=code-with-santanu&langs_count=8&layout=compact&theme=vision-friendly-dark&exclude_repo=udemy-basic-html-brad" alt="code-with-santanu"/>
+</p>
 
 <!-------------------------Activity Graph------------------------->
 <br>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=code-with-santanu&theme=github-compact&bg_color=FFFFFF00&color=e1dbe1&line=8042fc&point=ffb000&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-------------------------Most Used Languages & Current Streak------------------------->
-<p align ="center" style="
-display: flex;
-align-items: center;
-justify-content: center;
-"><img src="https://github-stats-barnacle.vercel.app/api/top-langs/?username=code-with-santanu&langs_count=10&layout=compact&theme=vision-friendly-dark&exclude_repo=udemy-basic-html-brad" alt="code-with-santanu"/>
+---
 
-
-<img src="https://streak-stats.demolab.com?user=code-with-santanu&theme=vision-friendly-dark" alt="code-with-santanu"/>
-
-<h1 align="center"> Wanna Motivate Me </h1>
-<p align="center"> Star ⭐ my projects ⚓</p>
-
-<p align="center"> Follow🚶 me on Github </p>
+<h3 > Wanna Motivate Me </h1>
+<ul>
+  <li > Star ⭐ my projects ⚓</li>
+  <li > Follow🚶 me on Github </li>
+</ul>
 
 
 <!------------Connect with me ----------->
@@ -50,6 +55,7 @@ justify-content: center;
 <a href="https://www.hackerearth.com/@santanupal003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@santanupal003" height="30" width="40" /></a>
 </p>
 
+<!------------ Languages and tools ----------->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
@@ -61,8 +67,11 @@ justify-content: center;
 
 
 <!-------------------------Trophy------------------------->
-<br>
 
+<h3 align="center">Santanu Pal's github trophies</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-with-santanu" alt="code-with-santanu" /></a> </p>
+
+<!-------------------------Open Source contribution badges------------------------->
+<h3 align="center">Santanu Pal's Open Source Contribution Badges (2023)</h3>
 
 [![An image of @codewithsantanu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codewithsantanu)](https://holopin.io/@codewithsantanu)
