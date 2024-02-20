@@ -1,15 +1,20 @@
 <h1 align="center">👋 Hello It's me Santanu Pal :)</h1>
 <h3 align="center">A Tech Enthusiast from India ❤️</h3>
 
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-- 🌱 I’m currently learning **Python, Java, DevOps**
 
-- 📫 How to reach me **santanubalb404@gmail.com**
-
-- ⚡ Take a glance of my website : [Portfolio](https://santanupal-03.web.app/)
-
-- 💬 **Always up to discuss new ideas and explore techical skills.**
-
+<p align="center">
+  
+ 🌱 I’m currently learning **Python, Java, DevOps**
+  
+ 📫 How to reach me **santanubalb404@gmail.com** 
+ 
+ ⚡ Take a glance of my website :  [Portfolio](https://santanupal-03.web.app/)
+  
+ 💬 **Always up to discuss new ideas and explore techical skills.** 
+  
+</p>
 <!-------------------------Profile view------------------------->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=code-with-santanu&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-santanu" /> </p>
