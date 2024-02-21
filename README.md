@@ -1,27 +1,34 @@
 <h1 align="center">👋 Hello It's me Santanu Pal :)</h1>
 <h3 align="center">A Tech Enthusiast from India ❤️</h3>
 
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" <!-- divider -->
 
+<img align="right" alt="Coding" src="./myImage.gif" width="450" height="250" alt="code-with-santanu"/>
+   
+<p>
+   🌱 I’m currently learning **DevOps**
 
-<p align="center">
-  
- 🌱 I’m currently learning **DevOps**
-  
- 📫 How to reach me **santanubalb404@gmail.com** 
- 
- ⚡ Take a glance of my website :  [Portfolio](https://santanupal-03.web.app/)
-  
- 💬 **Always up to discuss new ideas and explore techical skills.** 
-  
+   🧑‍💻 Ask me about Java, Python, Linux
+    
+   📫 How to reach me **santanubalb404@gmail.com** 
+   
+   ⚡ Take a glance of my website :  [Portfolio](https://santanupal-03.web.app/)
+    
+   💬 **Always up to discuss new ideas and explore techical skills.** 
 </p>
+
 <!-------------------------Profile view------------------------->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=code-with-santanu&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-santanu" /> </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- divider -->
 
+
+<!-------------------------design around strak------------------------->
+
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <!-------------------------Github streak------------------------->
+
 <h2 align="center">Santanu Pal's Streak and Contribution</h2>
 <p align="center"><img src="https://streak-stats.demolab.com?user=code-with-santanu&theme=vision-friendly-dark" alt="code-with-santanu"/></p>
 
@@ -43,7 +50,7 @@ justify-content: center;
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=code-with-santanu&theme=github-compact&bg_color=FFFFFF00&color=e1dbe1&line=8042fc&point=ffb000&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- divider -->
 
 <h3 > Wanna Motivate Me </h1>
 <ul>
