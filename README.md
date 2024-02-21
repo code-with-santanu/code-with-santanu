@@ -6,7 +6,7 @@
 
 <p align="center">
   
- 🌱 I’m currently learning **Python, Java, DevOps**
+ 🌱 I’m currently learning **DevOps**
   
  📫 How to reach me **santanubalb404@gmail.com** 
  
