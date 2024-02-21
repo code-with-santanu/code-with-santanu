@@ -3,7 +3,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/> <!-- divider -->
 
-<img align="right" alt="Coding" src="./myImage.gif" width="40%" height="5%" alt="code-with-santanu"/>
+<img align="right" alt="Coding" src="./myImage.gif" width="48%" height="5%" alt="code-with-santanu"/>
    
 <p>
    🌱 I’m currently learning **DevOps**
@@ -14,7 +14,7 @@
    
    ⚡ Take a glance of my website :  [Portfolio](https://santanupal-03.web.app/)
     
-   💬 **Always up to discuss new ideas and explore techical skills.** 
+   💬 **Always up to discuss ideas and explore skills.** 
 </p>
 
 <!-------------------------Profile view------------------------->
