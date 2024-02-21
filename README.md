@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello It's me Santanu Pal :)</h1>
 <h3 align="center">A Tech Enthusiast from India ❤️</h3>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" <!-- divider -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/> <!-- divider -->
 
 <img align="right" alt="Coding" src="./myImage.gif" width="450" height="250" alt="code-with-santanu"/>
    
