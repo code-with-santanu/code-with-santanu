@@ -6,7 +6,8 @@
 <img align="right" alt="Coding" src="./myImage.gif" width="48%" height="5%" alt="code-with-santanu"/>
    
 <p>
-   🌱 I’m currently learning **DevOps**
+
+🌱 I’m currently learning **DevOps**
 
 🧑‍💻 Ask me about Java, Python, Linux
 
