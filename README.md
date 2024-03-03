@@ -64,8 +64,8 @@ justify-content: center;
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iam_santanu03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_santanu03" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/santanu-pal-62778922a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santanu-pal-62778922a/" height="30" width="40" /></a>
+<a href="https://twitter.com/iam_santanu03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_santanu03" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100051079359488&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100051079359488&mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/santanupal47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santanupal47" height="30" width="40" /></a>
 <a href="https://medium.com/@santanu.pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@santanu.pal" height="30" width="40" /></a>
