@@ -42,7 +42,7 @@ display: flex;
 align-items: center;
 justify-content: center;
 ">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-with-santanu&rank_icon=github&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=false&locale=en" alt="code-with-santanu"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=code-with-santanu&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&hide_border=false&locale=en" alt="code-with-santanu"/>
   
   <img width="auto" src="https://github-stats-barnacle.vercel.app/api/top-langs/?username=code-with-santanu&langs_count=8&layout=compact&theme=vision-friendly-dark&exclude_repo=udemy-basic-html-brad" alt="code-with-santanu"/>
 </p>
