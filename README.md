@@ -32,7 +32,8 @@
 <!-------------------------Github streak------------------------->
 
 <h2 align="center">Santanu Pal's Streak and Contribution</h2>
-<p align="center"><img src="https://streak-stats.demolab.com?user=code-with-santanu&theme=vision-friendly-dark" alt="code-with-santanu"/></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=code-with-santanu&theme=vision-friendly-dark" alt="code-with-santanu"/>
+</p>
 
 <br>
 <!-------------------------Github stats and most used languages------------------------->
