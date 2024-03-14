@@ -92,7 +92,6 @@ justify-content: center;
 
 <!-------------------------Open Source contribution badges------------------------->
 <h3 align="center">Santanu Pal's Open Source Contribution Badges (2023)</h3>
-
 [![An image of @codewithsantanu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codewithsantanu)](https://holopin.io/@codewithsantanu)
 
 <!-------------------------Top repository ---------------------------------->
