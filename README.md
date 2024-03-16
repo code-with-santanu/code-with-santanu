@@ -99,5 +99,5 @@ justify-content: center;
 <img src="https://github-contributor-stats.vercel.app/api?username=code-with-santanu&limit=5&theme=algolia&combine_all_yearly_contributions=true" />
 </p>
 
-<!-------------------------Activity block (snake animation)------------------------->
+<!------------------------- Activity block (snake animation)------------------------->
 <img src="https://raw.githubusercontent.com/code-with-santanu/code-with-santanu/output/snake.svg" alt="Snake animation" />
