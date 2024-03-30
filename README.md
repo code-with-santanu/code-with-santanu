@@ -102,5 +102,4 @@ justify-content: center;
 </p>
 
 <!------------------------- Activity block (snake animation)------------------------->
-
 <img src="https://raw.githubusercontent.com/code-with-santanu/code-with-santanu/output/snake.svg" alt="Snake animation" />
