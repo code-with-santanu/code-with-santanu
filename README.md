@@ -13,7 +13,7 @@
 
 📫 How to reach me **santanubalb404@gmail.com**
 
-⚡ Take a glance of my website : [Portfolio](https://santanupal-03.web.app/)
+⚡ Take a glance of my website : [Portfolio](https://santanupal.me/)
 
 💬 **Always up to discuss ideas and explore skills.**
 
