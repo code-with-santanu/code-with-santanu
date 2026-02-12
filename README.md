@@ -11,7 +11,7 @@
 
 🧑‍💻 Ask me about Java, Linux
 
-📫 How to reach me **santanubalb404@gmail.com**
+📫 How to reach me **santanupalb404@gmail.com**
 
 ⚡ Take a glance of my website : [Portfolio](https://santanupal-03.web.app/)
 
